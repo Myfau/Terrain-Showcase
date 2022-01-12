@@ -60,5 +60,5 @@ void triangulation::terrain_full()
     bool bCustomIndices(false);
     bool bClear(true); 
     dt.exportTriangulation(fadeExport, bCustomIndices, bClear);
-    fadeExport.writeObj("terrain.obj");
+    fadeExport.writeObj("terrain2.obj");
 }

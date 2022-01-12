@@ -91,7 +91,7 @@ GLuint lightIndices[] =
 
 int main(){
 
-	triangulation* triangulatator = new triangulation("N53E021.hgt");
+	triangulation* triangulatator = new triangulation("N49E019.hgt");
 	delete triangulatator;
 
 	glfwInit();
