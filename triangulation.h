@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
-#include <include_fade25d/Fade_2D.h>
-#include <include_fade25d/Point2.h>
+#include <Libraries/include/include_fade25d/Fade_2D.h>
+#include <Libraries/include/include_fade25d/Point2.h>
 #define SRTM_SIZE 1000
 
 class triangulation{	
